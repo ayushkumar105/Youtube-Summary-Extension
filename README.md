@@ -20,4 +20,6 @@ Usage:
   
   * Click on the "Refresh" button to update the summary with the new length setting
 
+###  Below is a screenshot of the summary of this [video](https://www.youtube.com/watch?v=jgzI-N_U2hs&ab_channel=LinusTechTips)
+
 ![image](https://user-images.githubusercontent.com/102334419/210088978-0a8fcd9d-2ae8-4321-a804-c5c28da707ad.png)
