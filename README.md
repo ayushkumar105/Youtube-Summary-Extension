@@ -19,3 +19,5 @@ Usage:
   * Use the slider to adjust the length of the summary (longer summary will include more of the transcript, while shorter summary will include less)
   
   * Click on the "Refresh" button to update the summary with the new length setting
+
+![image](https://user-images.githubusercontent.com/102334419/210088978-0a8fcd9d-2ae8-4321-a804-c5c28da707ad.png)
